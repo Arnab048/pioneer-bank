@@ -1,0 +1,52 @@
+body{
+    padding:100px;
+}
+div{
+    margin-bottom: 20px;
+}
+
+.credentialInfo{
+    border:none;
+    border-radius: 8px;
+    box-shadow: 5px 10px 25px grey;
+    height: 350px;
+    padding:50px;
+    margin : 10px;
+}
+
+.deposit{
+    border: none;
+    background-color: blueviolet;
+    color: white;
+    border-radius: 8px;
+    padding: 15px;
+}
+.withdraw{
+    border: none;
+    background-color: salmon;
+    color: white;
+    border-radius: 8px;
+    padding: 15px;
+}
+.balance{
+    border: none;
+    background-color: orange;
+    color: white;
+    border-radius: 8px;
+    padding: 15px;
+}
+
+.moneyEntry{
+    border:none;
+    border-radius: 8px;
+    box-shadow: 5px 10px 25px grey;
+    height: 250px;
+    padding:40px;
+    margin : 10px;
+}
+
+#transactionArea{
+    display:none;
+    height: 100%;
+    width: 100%;
+}
